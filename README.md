@@ -1,0 +1,3 @@
+I used Flutter to develop a weather app, and I cared less about the UI design but more about learning the basics. I mainly focused on practice of using present technologies. Like, for example, I tested using someone else's API with Dio or utilized state management with BLoC.
+This was a DEPI startup program graduation project of mine that was assigned to me by the Ministry of Communications.
+The application is minimalist but I customized ThemeData in order to easily modify the app's appearance.
