@@ -8,6 +8,10 @@ I created a weather app that shows live weather data based on the device's curre
 ## The Finished App
 The app is a minimalist weather app, with a focus on functionality rather than UI design.
 
+## App PreView Demo
+![Weather app](https://github.com/user-attachments/assets/06d968eb-d7ff-4dd6-b6c8-50fe7b45d8b6)
+
+
 ## What I Learned
 **I learned the following:**<br/>
 
